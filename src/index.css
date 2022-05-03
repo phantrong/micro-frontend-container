@@ -59,3 +59,7 @@ main {
     margin-top: 10px;
     font-family: 'Comfortaa';
 }
+
+img {
+    width: 100%;
+}
